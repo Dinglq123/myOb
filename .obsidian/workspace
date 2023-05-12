@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "0ad7833e3f944e78",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7623a119f475bb9",
+        "type": "leaf",
+        "dimension": 73.95701643489254,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "代码/javascript.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "1d4836777a7f7bc0"
+      },
+      {
+        "id": "19c4da1e0a3c3cd0",
+        "type": "leaf",
+        "dimension": 26.042983565107463,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "代码/javascript.md"
+          }
+        },
+        "group": "1d4836777a7f7bc0"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abd32f5f19661670",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6dac66997858199",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c1417edb29a2c56",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1578101821522268",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd1fcf855e74fbd5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d41012247f6b8856",
+    "type": "split",
+    "children": [
+      {
+        "id": "47905576217089e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b23c4bc6f379e997",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "代码/javascript.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49d6db9a4457f82b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "代码/javascript.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "655ddbdd27f65fd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fb6b8650d9cde6fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "代码/javascript.md"
+              }
+            }
+          },
+          {
+            "id": "0f7b0e6aa692ee77",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d7623a119f475bb9",
+  "lastOpenFiles": [
+    "代码/vue.md",
+    "代码/torch.md",
+    "2022-10-14.md",
+    "2022-10-13.md",
+    "代码/javascript.md",
+    "代码/Linux.md",
+    "代码/emoji.md",
+    "Pasted image 20220922165500.png",
+    "刷题/函数.md",
+    "2022-09-22.md"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "communityPluginSortOrder": "alphabetical",
+  "attachmentFolderPath": "./res",
+  "strictLineBreaks": true,
+  "autoConvertHtml": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "current"
+}
