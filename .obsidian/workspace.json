@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/面试题/浏览器、服务器、协议.md",
+                "file": "代码/git.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/面试题/浏览器、服务器、协议.md",
+                "file": "代码/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/面试题/浏览器、服务器、协议.md",
+                "file": "代码/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/面试题/浏览器、服务器、协议.md"
+                "file": "代码/git.md"
               }
             }
           },
@@ -220,6 +220,9 @@
   },
   "active": "f04af476242fb758",
   "lastOpenFiles": [
+    "日记/2023-05-14.md",
+    "代码/git.md",
+    "前端/面试题/浏览器、服务器、协议.md",
     "日记/2023-05-12.md",
     "代码/Linux.md",
     "代码/emoji.md",
@@ -236,7 +239,6 @@
     "2022-10-23.md",
     "日记",
     "前端/面试题/css.md",
-    "前端/面试题/浏览器、服务器、协议.md",
     "前端/面试题/vue.md",
     "前端/面试题/js.md",
     "前端/面试题/html.md",
@@ -259,8 +261,6 @@
     "前端",
     "res",
     "刷题/函数.md",
-    "前端/vue/vue.md",
-    "前端/vue/动态组件.md",
     "前端/javascript",
     "初阶训练营",
     "前端/vue"
