@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代码/Linux.md",
+                "file": "前端/javascript/创建对象的方式.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "代码/Linux.md",
+                "file": "前端/javascript/创建对象的方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "代码/Linux.md",
+                "file": "前端/javascript/创建对象的方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "代码/Linux.md"
+                "file": "前端/javascript/创建对象的方式.md"
               }
             }
           },
@@ -220,12 +220,12 @@
   },
   "active": "f04af476242fb758",
   "lastOpenFiles": [
+    "代码/Linux.md",
     "日记/2023-05-16.md",
     "代码/git.md",
     "日记/2023-05-14.md",
     "前端/面试题/浏览器、服务器、协议.md",
     "日记/2023-05-12.md",
-    "代码/Linux.md",
     "代码/emoji.md",
     "res/Pasted image 20220922171654.png",
     "res/Pasted image 20220922194717.png",
