@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/javascript/创建对象的方式.md",
+                "file": "代码/git.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/javascript/创建对象的方式.md",
+                "file": "代码/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/javascript/创建对象的方式.md",
+                "file": "代码/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/javascript/创建对象的方式.md"
+                "file": "代码/git.md"
               }
             }
           },
@@ -220,6 +220,8 @@
   },
   "active": "f04af476242fb758",
   "lastOpenFiles": [
+    "日记/2023-05-22.md",
+    "前端/javascript/创建对象的方式.md",
     "代码/Linux.md",
     "日记/2023-05-16.md",
     "代码/git.md",
@@ -244,7 +246,6 @@
     "前端/面试题/js.md",
     "前端/面试题/html.md",
     "前端/javascript/函数.md",
-    "前端/javascript/创建对象的方式.md",
     "前端/javascript/继承.md",
     "前端/javascript/javascript.md",
     "前端/javascript/类与继承.md",
@@ -257,7 +258,6 @@
     "res/Pasted image 20230509134028.png",
     "res/Pasted image 20230509133947.png",
     "res/Pasted image 20230509133857.png",
-    "前端/vue/vue知识点回顾大纲.md",
     "未命名 1",
     "前端",
     "res",
