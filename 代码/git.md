@@ -59,12 +59,12 @@ git rest HEAD fileName
 ## 开始测试
 ## 分支管理
 ### 创建 切换 分支
-`git switch -c dev`创建并切换。
-`git switch dev`直接切换到现有的分支
-### 切换分支
-`git switch -c dev`
+创建并切换：`git switch -c dev`
+
+直接切换到现有的分支：`git switch dev`
+切换分支：`git switch -c dev`
 ### 查看分支
-`git branch`命令查看当前分支
+查看当前分支：`git branch`
 ### 合并分支
 `git merge dev`把dev分支合并到当前分支。
 ### 删除分支
