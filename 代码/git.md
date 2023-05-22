@@ -59,4 +59,4 @@ git rest HEAD fileName
 ## 开始测试
 ## 分支管理
 创建分支
-`git chechout`
+`git checkout`命令加上`-b`参数表示创建并切换，相当于下面两条
