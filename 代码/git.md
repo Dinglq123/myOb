@@ -58,7 +58,7 @@ git rest HEAD fileName
 ```
 ## 开始测试
 ## 分支管理
-创建分支
+### 创建分支
 `git checkout`命令加上`-b`参数表示创建并切换，相当于下面两条命令：
 ```bash
 # 创建分支
@@ -66,5 +66,7 @@ git branch branchName
 # 切换分支
 git checkout branchName
 ```
-查看分支
+### 查看分支
 `git branch`命令查看当前分支
+### 合并分支
+`git merge`
