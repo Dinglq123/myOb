@@ -62,11 +62,11 @@ git rest HEAD fileName
 
 **直接切换到现有的分支**：`git switch dev`
 
-切换分支：`git switch -c dev`
+**切换分支**：`git switch -c dev`
 
-查看当前分支：`git branch`
+**查看当前分支**：`git branch`
 
-把dev分支合并到当前分支：`git merge dev`
+**把dev分支合并到当前分支**：`git merge dev`
 
-删除dev分支：`git branch -d dev`
+**删除dev分支**：`git branch -d dev`
 
