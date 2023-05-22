@@ -66,6 +66,7 @@ git branch branchName
 # 切换分支
 git checkout branchName
 ```
+
 ### 查看分支
 `git branch`命令查看当前分支
 ### 合并分支
