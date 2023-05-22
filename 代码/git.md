@@ -71,4 +71,5 @@ git checkout branchName
 ### 合并分支
 `git merge dev`把dev分支合并到当前分支。
 ### 删除分支
-`git branch -d dev`
+`git branch -d dev`合并之后就能删除dev分支。
+
