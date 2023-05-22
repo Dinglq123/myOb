@@ -59,4 +59,4 @@ git rest HEAD fileName
 ## 开始测试
 ## 分支管理
 创建分支
-
+`git chechout`
