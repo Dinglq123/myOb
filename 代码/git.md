@@ -58,14 +58,9 @@ git rest HEAD fileName
 ```
 ## 开始测试
 ## 分支管理
-### 创建分支
-`git switch -c dev`创建并切换，相当于下面两条命令：
-```bash
-# 创建分支
-git branch branchName
-# 切换分支
-git checkout branchName
-```
+### 创建 切换 分支
+`git switch -c dev`创建并切换。
+`git switch dev`直接切换到现有的分支
 ### 切换分支
 `git switch -c dev`
 ### 查看分支
