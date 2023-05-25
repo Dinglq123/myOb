@@ -67,14 +67,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/javascript/函数.md",
+                "file": "前端/javascript/创建对象的方式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3267e011067b8bef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/javascript/集合引用类型.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/javascript/函数.md",
+                "file": "前端/javascript/集合引用类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/javascript/函数.md",
+                "file": "前端/javascript/集合引用类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/javascript/函数.md"
+                "file": "前端/javascript/集合引用类型.md"
               }
             }
           },
@@ -218,9 +230,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f04af476242fb758",
+  "active": "3267e011067b8bef",
   "lastOpenFiles": [
     "前端/javascript/创建对象的方式.md",
+    "前端/javascript/集合引用类型.md",
     "前端/javascript/函数.md",
     "前端/javascript/继承.md",
     "前端/javascript/类与继承.md",
@@ -254,7 +267,6 @@
     "res/Pasted image 20220922170728.png",
     "res/Pasted image 20220922165500.png",
     "res/Pasted image 20220922164133.png",
-    "2022-10-13.md",
     "res/Pasted image 20230509134028.png",
     "res/Pasted image 20230509133947.png",
     "res/Pasted image 20230509133857.png",
