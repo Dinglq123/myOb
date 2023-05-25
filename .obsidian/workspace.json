@@ -84,9 +84,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0212d515dd76daa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/javascript/基本引用类型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/javascript/集合引用类型.md",
+                "file": "前端/javascript/基本引用类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/javascript/集合引用类型.md",
+                "file": "前端/javascript/基本引用类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/javascript/集合引用类型.md"
+                "file": "前端/javascript/基本引用类型.md"
               }
             }
           },
@@ -230,10 +242,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3267e011067b8bef",
+  "active": "0212d515dd76daa5",
   "lastOpenFiles": [
-    "前端/javascript/创建对象的方式.md",
     "前端/javascript/集合引用类型.md",
+    "前端/javascript/基本引用类型.md",
+    "前端/javascript/创建对象的方式.md",
     "前端/javascript/函数.md",
     "前端/javascript/继承.md",
     "前端/javascript/类与继承.md",
@@ -262,7 +275,6 @@
     "前端/面试题/vue.md",
     "前端/面试题/js.md",
     "前端/面试题/html.md",
-    "前端/面试题/面试题总结.md",
     "前端/面试题",
     "res/Pasted image 20220922170728.png",
     "res/Pasted image 20220922165500.png",
