@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/javascript/基本引用类型.md",
+                "file": "刷题/函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/javascript/基本引用类型.md",
+                "file": "刷题/函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/javascript/基本引用类型.md",
+                "file": "刷题/函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/javascript/基本引用类型.md"
+                "file": "刷题/函数.md"
               }
             }
           },
@@ -244,8 +244,8 @@
   },
   "active": "0212d515dd76daa5",
   "lastOpenFiles": [
-    "前端/javascript/集合引用类型.md",
     "前端/javascript/基本引用类型.md",
+    "前端/javascript/集合引用类型.md",
     "前端/javascript/创建对象的方式.md",
     "前端/javascript/函数.md",
     "前端/javascript/继承.md",
