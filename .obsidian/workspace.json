@@ -72,33 +72,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3267e011067b8bef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/javascript/集合引用类型.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0212d515dd76daa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "刷题/函数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -172,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "刷题/函数.md",
+                "file": "前端/javascript/创建对象的方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "刷题/函数.md",
+                "file": "前端/javascript/创建对象的方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "刷题/函数.md"
+                "file": "前端/javascript/创建对象的方式.md"
               }
             }
           },
@@ -242,10 +218,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0212d515dd76daa5",
+  "active": "f04af476242fb758",
   "lastOpenFiles": [
-    "前端/javascript/基本引用类型.md",
     "前端/javascript/集合引用类型.md",
+    "刷题/函数.md",
+    "前端/javascript/基本引用类型.md",
     "前端/javascript/创建对象的方式.md",
     "前端/javascript/函数.md",
     "前端/javascript/继承.md",
@@ -274,7 +251,6 @@
     "前端/面试题/css.md",
     "前端/面试题/vue.md",
     "前端/面试题/js.md",
-    "前端/面试题/html.md",
     "前端/面试题",
     "res/Pasted image 20220922170728.png",
     "res/Pasted image 20220922165500.png",
