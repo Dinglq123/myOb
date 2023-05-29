@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/javascript/创建对象的方式.md",
+                "file": "前端/javascript/函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/javascript/创建对象的方式.md",
+                "file": "前端/javascript/函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/javascript/创建对象的方式.md",
+                "file": "前端/javascript/函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/javascript/创建对象的方式.md"
+                "file": "前端/javascript/函数.md"
               }
             }
           },
@@ -165,10 +165,10 @@
   },
   "active": "2fa3b2d8cc7bbf6c",
   "lastOpenFiles": [
-    "前端/javascript/函数.md",
     "前端/javascript/创建对象的方式.md",
-    "前端/面试题/js.md",
     "前端/面试题/vue.md",
+    "前端/javascript/函数.md",
+    "前端/面试题/js.md",
     "前端/面试题/html.md",
     "前端/面试题/css.md",
     "前端/面试题/浏览器、服务器、协议.md",
