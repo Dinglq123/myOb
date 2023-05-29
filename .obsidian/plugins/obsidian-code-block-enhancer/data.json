@@ -1,0 +1,8 @@
+{
+  "excludeLangs": [
+    "todoist\njs\ncss\nhtml"
+  ],
+  "showLangName": true,
+  "showLineNumber": true,
+  "useContextMenu": true
+}
