@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/面试题/浏览器、服务器、协议.md",
+                "file": "前端/面试题/css.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/面试题/浏览器、服务器、协议.md",
+                "file": "前端/面试题/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/面试题/浏览器、服务器、协议.md",
+                "file": "前端/面试题/css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/面试题/浏览器、服务器、协议.md"
+                "file": "前端/面试题/css.md"
               }
             }
           },
@@ -159,11 +159,13 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "2fa3b2d8cc7bbf6c",
   "lastOpenFiles": [
+    "前端/面试题/浏览器、服务器、协议.md",
     "前端/javascript/集合引用类型.md",
     "前端/javascript/基本引用类型.md",
     "前端/javascript/javascript.md",
@@ -178,7 +180,6 @@
     "代码/Linux.md",
     "日记/2023-05-16.md",
     "日记/2023-05-14.md",
-    "前端/面试题/浏览器、服务器、协议.md",
     "日记/2023-05-12.md",
     "代码/emoji.md",
     "res/Pasted image 20220922171654.png",
