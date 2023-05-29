@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/javascript/函数.md",
+                "file": "前端/javascript/基本引用类型.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/javascript/函数.md",
+                "file": "前端/javascript/基本引用类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/javascript/函数.md",
+                "file": "前端/javascript/基本引用类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/javascript/函数.md"
+                "file": "前端/javascript/基本引用类型.md"
               }
             }
           },
@@ -165,15 +165,16 @@
   },
   "active": "2fa3b2d8cc7bbf6c",
   "lastOpenFiles": [
+    "代码/res/Pasted image 20220923102623.png",
+    "前端/javascript/基本引用类型.md",
+    "前端/javascript/集合引用类型.md",
+    "前端/javascript/函数.md",
     "前端/javascript/创建对象的方式.md",
     "前端/面试题/vue.md",
-    "前端/javascript/函数.md",
     "前端/面试题/js.md",
     "前端/面试题/html.md",
     "前端/面试题/css.md",
     "前端/面试题/浏览器、服务器、协议.md",
-    "前端/javascript/集合引用类型.md",
-    "前端/javascript/基本引用类型.md",
     "前端/javascript/javascript.md",
     "前端/javascript/类与继承.md",
     "前端/javascript/继承.md",
@@ -194,7 +195,6 @@
     "2022-09-22.md",
     "2023-05-04.md",
     "2023-05-09.md",
-    "2022-11-17.md",
     "日记",
     "前端/面试题",
     "res/Pasted image 20220922170728.png",
