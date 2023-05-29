@@ -4,77 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ffb3eeccaec6a010",
+        "id": "d70f6d72efeab168",
         "type": "tabs",
         "children": [
           {
-            "id": "029534b229cc9ef7",
+            "id": "aee4cf07f9557f23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/面试题/浏览器、服务器、协议.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77e6a3548d1a4305",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "res/Pasted image 20220923101639.png"
-              }
-            }
-          },
-          {
-            "id": "056dfad9774f27f1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "res/Pasted image 20220922205342.png"
-              }
-            }
-          },
-          {
-            "id": "b8cc7bffc8865359",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "res/Pasted image 20220922194717.png"
-              }
-            }
-          },
-          {
-            "id": "ff9caa2a62990d9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代码/torch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f04af476242fb758",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/javascript/创建对象的方式.md",
+                "file": "前端/javascript/基本引用类型.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/javascript/创建对象的方式.md",
+                "file": "前端/javascript/基本引用类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/javascript/创建对象的方式.md",
+                "file": "前端/javascript/基本引用类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/javascript/创建对象的方式.md"
+                "file": "前端/javascript/基本引用类型.md"
               }
             }
           },
@@ -218,14 +163,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f04af476242fb758",
+  "active": "aee4cf07f9557f23",
   "lastOpenFiles": [
     "前端/javascript/集合引用类型.md",
-    "刷题/函数.md",
-    "前端/javascript/基本引用类型.md",
-    "前端/javascript/创建对象的方式.md",
-    "前端/javascript/函数.md",
     "前端/javascript/继承.md",
+    "前端/javascript/基本引用类型.md",
+    "代码/torch.md",
+    "前端/javascript/创建对象的方式.md",
+    "刷题/函数.md",
+    "前端/javascript/函数.md",
     "前端/javascript/类与继承.md",
     "前端/javascript/javascript.md",
     "代码/git.md",
@@ -250,7 +196,6 @@
     "日记",
     "前端/面试题/css.md",
     "前端/面试题/vue.md",
-    "前端/面试题/js.md",
     "前端/面试题",
     "res/Pasted image 20220922170728.png",
     "res/Pasted image 20220922165500.png",
