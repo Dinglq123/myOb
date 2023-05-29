@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d70f6d72efeab168",
+        "id": "73a9bdb1a3f084ca",
         "type": "tabs",
         "children": [
           {
-            "id": "aee4cf07f9557f23",
+            "id": "2fa3b2d8cc7bbf6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/javascript/基本引用类型.md",
+                "file": "前端/javascript/javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/javascript/基本引用类型.md",
+                "file": "前端/javascript/javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/javascript/基本引用类型.md",
+                "file": "前端/javascript/javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/javascript/基本引用类型.md"
+                "file": "前端/javascript/javascript.md"
               }
             }
           },
@@ -163,16 +163,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aee4cf07f9557f23",
+  "active": "2fa3b2d8cc7bbf6c",
   "lastOpenFiles": [
+    "前端/javascript/类与继承.md",
     "前端/javascript/集合引用类型.md",
     "前端/javascript/继承.md",
     "前端/javascript/基本引用类型.md",
-    "代码/torch.md",
-    "前端/javascript/创建对象的方式.md",
-    "刷题/函数.md",
     "前端/javascript/函数.md",
-    "前端/javascript/类与继承.md",
+    "前端/javascript/创建对象的方式.md",
+    "代码/torch.md",
+    "刷题/函数.md",
     "前端/javascript/javascript.md",
     "代码/git.md",
     "日记/2023-05-22.md",
