@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/vue/vue知识点回顾大纲.md",
+                "file": "前端/vue/vue.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/vue/vue知识点回顾大纲.md",
+                "file": "前端/vue/vue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/vue/vue知识点回顾大纲.md",
+                "file": "前端/vue/vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/vue/vue知识点回顾大纲.md"
+                "file": "前端/vue/vue.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "823ff3b96df633ea",
   "lastOpenFiles": [
+    "前端/vue/vue知识点回顾大纲.md",
     "前端/面试题/vue.md",
     "前端/javascript/基本引用类型.md",
     "前端/javascript/集合引用类型.md",
@@ -194,7 +195,6 @@
     "2022-09-19.md",
     "2022-09-22.md",
     "2023-05-04.md",
-    "2023-05-09.md",
     "日记",
     "前端/面试题",
     "res/Pasted image 20220922170728.png",
