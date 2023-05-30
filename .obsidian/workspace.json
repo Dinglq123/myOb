@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/vue/vue.md",
+                "file": "前端/面试题/js.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/vue/vue.md",
+                "file": "前端/面试题/js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/vue/vue.md",
+                "file": "前端/面试题/js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/vue/vue.md"
+                "file": "前端/面试题/js.md"
               }
             }
           },
@@ -164,6 +164,8 @@
   },
   "active": "823ff3b96df633ea",
   "lastOpenFiles": [
+    "前端/javascript/javascript.md",
+    "前端/vue/vue.md",
     "前端/vue/vue知识点回顾大纲.md",
     "前端/面试题/vue.md",
     "前端/javascript/基本引用类型.md",
@@ -177,7 +179,6 @@
     "前端/面试题/html.md",
     "前端/面试题/css.md",
     "前端/面试题/浏览器、服务器、协议.md",
-    "前端/javascript/javascript.md",
     "前端/javascript/类与继承.md",
     "代码/torch.md",
     "刷题/函数.md",
@@ -194,7 +195,6 @@
     "res/Pasted image 20220923101639.png",
     "2022-09-19.md",
     "2022-09-22.md",
-    "2023-05-04.md",
     "日记",
     "前端/面试题",
     "res/Pasted image 20220922170728.png",
