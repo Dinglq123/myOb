@@ -95,14 +95,14 @@ CSS3是CSS的第三个主要版本，引入了很多新的特性和属性，这�
 ## flex布局
 [掘金 flex布局](https://juejin.cn/post/7004622232378966046)
 ### flex-direction 主轴方向
-- row
-- row-reverse
-- column
-- columen-reverse
+- row 水平
+- row-reverse 水平反向
+- column 竖直
+- columen-reverse 竖直反向
 ### flex-wrap 是否换行
-- no-wrap
-- wrap
-- wrap-reverse
+- no-wrap 不换行
+- wrap 换行
+- wrap-reverse 从反向换行
 ### juetify-content 元素在主轴方向的对齐方式
 - flex-start
 - flex-end
