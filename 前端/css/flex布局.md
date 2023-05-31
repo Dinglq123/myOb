@@ -1,7 +1,5 @@
 [掘金 flex布局](https://juejin.cn/post/7004622232378966046)
-
--------------
-# **容器属性**
+# 容器属性
 ## flex-direction 主轴方向
 - row 水平
 - row-reverse 水平反向
@@ -30,4 +28,4 @@
 - space-between
 - space-around
 -----------------------------
-子元素属性
+# 子元素属性
