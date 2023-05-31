@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "127d82269b06b5a1",
+            "id": "df0f684d643d8b87",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a995c5d6d1a35664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/css/flex布局.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/css/flex布局.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/css/flex布局.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -162,9 +175,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "127d82269b06b5a1",
+  "active": "a995c5d6d1a35664",
   "lastOpenFiles": [
     "前端/css/flex布局.md",
+    "conflict-files-obsidian-git.md",
     "前端/面试题/css.md",
     "前端/面试题/vue.md",
     "前端/css",
@@ -191,7 +205,6 @@
     "日记/2023-05-16.md",
     "日记/2023-05-14.md",
     "日记/2023-05-12.md",
-    "代码/emoji.md",
     "res/Pasted image 20220922171654.png",
     "res/Pasted image 20220922194717.png",
     "res/Pasted image 20220922205342.png",
