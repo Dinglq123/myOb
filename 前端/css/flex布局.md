@@ -35,3 +35,5 @@
     order: <integer>;
 }
 ```
+## flex-grow
+定义项目的放大比例，默认为0，即
