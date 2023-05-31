@@ -103,7 +103,7 @@ CSS3是CSS的第三个主要版本，引入了很多新的特性和属性，这�
 - no-wrap
 - wrap
 - wrap-reverse
-### juetify-content 每行元素在主轴方向的对齐方式
+### juetify-content 元素在主轴方向的对齐方式
 - flex-start
 - flex-end
 - center
@@ -115,7 +115,7 @@ CSS3是CSS的第三个主要版本，引入了很多新的特性和属性，这�
 - center
 - space-between
 - space-around
-### align-items 
+### align-items 元素在交叉轴方向的对齐方式
 - flex-start
 - felx-end
 - center
