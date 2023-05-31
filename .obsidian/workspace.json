@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/vue/vue.md",
+                "file": "前端/面试题/vue.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/vue/vue.md",
+                "file": "前端/面试题/vue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/vue/vue.md",
+                "file": "前端/面试题/vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/vue/vue.md"
+                "file": "前端/面试题/vue.md"
               }
             }
           },
@@ -164,11 +164,11 @@
   },
   "active": "823ff3b96df633ea",
   "lastOpenFiles": [
+    "前端/vue/vue.md",
     "前端/面试题/css.md",
     "前端/javascript/创建对象的方式.md",
     "前端/javascript/基本引用类型.md",
     "前端/javascript/集合引用类型.md",
-    "前端/vue/vue.md",
     "前端/vue/slot.md",
     "刷题/函数.md",
     "前端/vue/vue知识点回顾大纲.md",
