@@ -109,7 +109,12 @@ CSS3是CSS的第三个主要版本，引入了很多新的特性和属性，这�
 - center
 - space-between
 - space-around
-align
+align-content
+- flex-start
+- flex-end
+- center
+- space-between
+- space-around
 ## CSS绘制三角形
 ### 使用border
 使用 CSS 绘制三角形的第一种方法就是使用 「border」 属性。
