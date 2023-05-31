@@ -93,39 +93,6 @@ CSS3是CSS的第三个主要版本，引入了很多新的特性和属性，这�
 - Flexbox 布局：CSS3中引入了弹性盒子布局，也称为Flexbox布局。Flexbox布局可以用来解决传统布局所存在的很多问题，并且提供了更加灵活和智能的布局机制。
 总之，CSS3为Web开发人员带来了许多强大的新特性和属性，使得页面的样式和布局更加灵活、自然和炫酷。它带来了一些非常有用的功能以及更丰富多彩的交互体验，使得Web应用程序在UI设计方面更加出色。
 ## flex布局
-[掘金 flex布局](https://juejin.cn/post/7004622232378966046)
-
--------------
-**容器属性**
-### flex-direction 主轴方向
-- row 水平
-- row-reverse 水平反向
-- column 竖直
-- columen-reverse 竖直反向
-### flex-wrap 是否换行
-- no-wrap 不换行
-- wrap 换行
-- wrap-reverse 从反向换行
-### juetify-content 元素在主轴方向的对齐方式
-- flex-start 开始方向
-- flex-end 结束方向
-- center 居中
-- space-between 两端对齐
-- space-around 环绕对齐
-### align-items 元素在交叉轴方向的对齐方式
-- stretch 如果元素没有设置高度或者设为auto 将会占满整个容器的高度
-- flex-start 上边对齐
-- felx-end 下边对齐
-- center 中心对齐
-- baseline 以元素的第一行文字的极限对齐
-### align-content 多个行在交叉轴方向的对齐
-- flex-start 
-- flex-end
-- center
-- space-between
-- space-around
----------
-**子元素属性**
 
 
 ## CSS绘制三角形
