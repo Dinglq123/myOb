@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "164aefbec04f8696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/面试题/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/面试题/css.md",
+                "file": "前端/面试题/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/面试题/css.md",
+                "file": "前端/面试题/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/面试题/css.md"
+                "file": "前端/面试题/未命名.md"
               }
             }
           },
@@ -162,8 +175,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "823ff3b96df633ea",
+  "active": "164aefbec04f8696",
   "lastOpenFiles": [
+    "前端/面试题/css.md",
+    "前端/面试题/未命名.md",
+    "前端/css",
     "前端/javascript/继承.md",
     "前端/javascript/基本引用类型.md",
     "前端/javascript/集合引用类型.md",
@@ -174,7 +190,6 @@
     "前端/面试题/html.md",
     "前端/javascript/创建对象的方式.md",
     "前端/面试题/vue.md",
-    "前端/面试题/css.md",
     "前端/vue/slot.md",
     "刷题/函数.md",
     "前端/面试题/js.md",
@@ -194,7 +209,6 @@
     "res/Pasted image 20220922194717.png",
     "res/Pasted image 20220922205342.png",
     "res/Pasted image 20220923101639.png",
-    "2022-09-19.md",
     "日记",
     "前端/面试题",
     "res/Pasted image 20220922170728.png",
