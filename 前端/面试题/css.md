@@ -109,18 +109,19 @@ CSS3是CSS的第三个主要版本，引入了很多新的特性和属性，这�
 - center 居中
 - space-between 两端对齐
 - space-around 环绕对齐
-### align-content 多个行在交叉轴方向的对齐
-- flex-start 
-- flex-end
-- center
-- space-between
-- space-around
 ### align-items 元素在交叉轴方向的对齐方式
 - stretch 如果元素没有设置高度或者设为auto 将会占满整个容器的高度
 - flex-start 上边对齐
 - felx-end 下边对齐
 - center 中心对齐
 - baseline 以元素的第一行文字的极限对齐
+### align-content 多个行在交叉轴方向的对齐
+- flex-start 
+- flex-end
+- center
+- space-between
+- space-around
+
 
 ## CSS绘制三角形
 ### 使用border
