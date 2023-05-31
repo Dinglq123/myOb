@@ -53,6 +53,7 @@ Flex布局是一个完整的模块，它包括了一套完整的属性。**其�
     flex-basis: <length> | auto;
 }
 ```
-当主轴设置为水平时，当设置了 flex-basis，设置的项目宽度值会失效，flex-basis 需要跟 flex-grow 和 flex-shrink 配合使用才能生效。有两种特殊的值：
+需要注意的是，当 flex-direction 的值为 row 或 row-reverse 时，flex-basis 控制的是宽度；当 flex-direction 的值为 column 或 column-reverse 时，flex-basis 控制的是高度。
+当主轴设置为水平时，当设置了 flex-basis，项目的宽度值会被更新为flex-basis设置的值，flex-basis 需要跟 flex-grow 和 flex-shrink 配合使用才能生效。有两种特殊的值：
 - 当 flex-basis 值为 0 % 时，项目尺寸会被认为是0，因此无论项目尺寸设置多少都用；
 - 当 flex-basis 值为 auto 时，则跟根据尺寸的设定值来设置大小。
