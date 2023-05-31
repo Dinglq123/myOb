@@ -104,13 +104,13 @@ CSS3是CSS的第三个主要版本，引入了很多新的特性和属性，这�
 - wrap 换行
 - wrap-reverse 从反向换行
 ### juetify-content 元素在主轴方向的对齐方式
-- flex-start
-- flex-end
-- center
-- space-between
-- space-around
+- flex-start 开始方向
+- flex-end 结束方向
+- center 居中
+- space-between 两端对齐
+- space-around 环绕对齐
 ### align-content 多个行在交叉轴方向的对齐
-- flex-start
+- flex-start 
 - flex-end
 - center
 - space-between
