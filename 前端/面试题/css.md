@@ -94,6 +94,11 @@ CSS3是CSS的第三个主要版本，引入了很多新的特性和属性，这�
 总之，CSS3为Web开发人员带来了许多强大的新特性和属性，使得页面的样式和布局更加灵活、自然和炫酷。它带来了一些非常有用的功能以及更丰富多彩的交互体验，使得Web应用程序在UI设计方面更加出色。
 ## flex布局
 [掘金 flex布局](https://juejin.cn/post/7004622232378966046)
+flex-direction
+row
+row-reverse
+column
+columen
 ## CSS绘制三角形
 ### 使用border
 使用 CSS 绘制三角形的第一种方法就是使用 「border」 属性。
