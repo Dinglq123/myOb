@@ -28,4 +28,10 @@
 - space-between
 - space-around
 # 子元素属性
-## order 定义项目的排列顺序。数值越小，排列越靠前，默认为0。
+## order 
+定义项目的排列顺序。数值越小，排列越靠前，默认为0
+```css
+.item {
+    order: <integer>;
+}
+```
