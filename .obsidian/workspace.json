@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/面试题/js.md",
+                "file": "前端/vue/slot.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/面试题/js.md",
+                "file": "前端/vue/slot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/面试题/js.md",
+                "file": "前端/vue/slot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/面试题/js.md"
+                "file": "前端/vue/slot.md"
               }
             }
           },
@@ -164,8 +164,11 @@
   },
   "active": "823ff3b96df633ea",
   "lastOpenFiles": [
-    "前端/面试题/html.md",
+    "前端/vue/vue.md",
+    "刷题/函数.md",
+    "前端/vue/vue知识点回顾大纲.md",
     "前端/面试题/js.md",
+    "前端/面试题/html.md",
     "前端/面试题/浏览器、服务器、协议.md",
     "前端/javascript/继承.md",
     "前端/javascript/集合引用类型.md",
@@ -177,11 +180,8 @@
     "前端/javascript/函数.md",
     "前端/javascript/javascript.md",
     "前端/javascript/类与继承.md",
-    "前端/vue/vue.md",
-    "前端/vue/vue知识点回顾大纲.md",
     "代码/res/Pasted image 20220923102623.png",
     "代码/torch.md",
-    "刷题/函数.md",
     "代码/git.md",
     "日记/2023-05-22.md",
     "代码/Linux.md",
