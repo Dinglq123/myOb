@@ -116,7 +116,7 @@ CSS3是CSS的第三个主要版本，引入了很多新的特性和属性，这�
 - space-between
 - space-around
 ### align-items 元素在交叉轴方向的对齐方式
-- flex-start
+- flex-start 上边对齐
 - felx-end
 - center
 - baseline
