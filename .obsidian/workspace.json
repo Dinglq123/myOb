@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/css/flex布局.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a995c5d6d1a35664",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "前端/面试题/css.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "前端/面试题/css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "前端/面试题/css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "前端/面试题/css.md"
               }
             }
           },
@@ -175,11 +162,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a995c5d6d1a35664",
+  "active": "df0f684d643d8b87",
   "lastOpenFiles": [
+    "前端/面试题/浏览器、服务器、协议.md",
+    "前端/面试题/css.md",
     "前端/css/flex布局.md",
     "conflict-files-obsidian-git.md",
-    "前端/面试题/css.md",
     "前端/面试题/vue.md",
     "前端/css",
     "前端/javascript/继承.md",
@@ -188,7 +176,6 @@
     "前端/javascript/函数.md",
     "前端/vue/vue.md",
     "前端/vue/vue知识点回顾大纲.md",
-    "前端/面试题/浏览器、服务器、协议.md",
     "前端/面试题/html.md",
     "前端/javascript/创建对象的方式.md",
     "前端/vue/slot.md",
