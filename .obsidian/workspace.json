@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/javascript/函数.md",
+                "file": "前端/javascript/继承.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/javascript/函数.md",
+                "file": "前端/javascript/继承.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/javascript/函数.md",
+                "file": "前端/javascript/继承.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/javascript/函数.md"
+                "file": "前端/javascript/继承.md"
               }
             }
           },
@@ -144,9 +144,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "8be8408cb53bc301",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -159,12 +167,15 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df0f684d643d8b87",
+  "active": "8be8408cb53bc301",
   "lastOpenFiles": [
     "前端/面试题/js.md",
+    "前端/javascript/集合引用类型.md",
+    "前端/javascript/函数.md",
     "前端/css/flex布局.md",
     "前端/面试题/css.md",
     "前端/面试题/浏览器、服务器、协议.md",
@@ -173,8 +184,6 @@
     "前端/css",
     "前端/javascript/继承.md",
     "前端/javascript/基本引用类型.md",
-    "前端/javascript/集合引用类型.md",
-    "前端/javascript/函数.md",
     "前端/vue/vue.md",
     "前端/vue/vue知识点回顾大纲.md",
     "前端/面试题/html.md",
