@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/javascript/方法/map和set.md",
+                "file": "前端/javascript/方法/数组.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/javascript/方法/map和set.md",
+                "file": "前端/javascript/方法/数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/javascript/方法/map和set.md",
+                "file": "前端/javascript/方法/数组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/javascript/方法/map和set.md"
+                "file": "前端/javascript/方法/数组.md"
               }
             }
           },
@@ -210,12 +210,12 @@
   },
   "active": "db9a475caffb4e7a",
   "lastOpenFiles": [
-    "前端/javascript/集合引用类型.md",
-    "前端/javascript/方法/map和set.md",
+    "前端/javascript/方法/String.md",
     "前端/javascript/方法/数组.md",
+    "前端/javascript/方法/map和set.md",
+    "前端/javascript/集合引用类型.md",
     "前端/javascript/方法/Number.md",
     "前端/javascript/方法.md",
-    "前端/javascript/方法/String.md",
     "前端/javascript/函数.md",
     "前端/javascript/方法",
     "前端/javascript/基本引用类型.md",
