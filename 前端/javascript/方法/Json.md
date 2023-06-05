@@ -20,4 +20,4 @@
 # JSON.parse
 `let value = JSON.parse(str, [reviver]);`
 - str 要解析的 JSON 字符串。
-- reviver 可选的函数 function(key,value)，该函数将为每个 (key, value) 对调用，并可以对值进行转换。(这个一般都要用，因为**值默认都是字符串**，要把它转化为正确的类型)。
+- reviver 可选的函数 function(key,value)，该函数将为每个 (key, value) 对调用，并可以对值进行转换。(这个一般都要用，因为**值默认都是string(双引号)或者Number(不加加引号的数字)**，要把它转化为正确的类型)。
