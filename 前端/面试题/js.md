@@ -17,6 +17,7 @@ var obj2 = Object.assign(obj1);
 console.log(obj1, obj2)
 ```
 拓展运算符（...）
+**可以用于扩展可迭代对象的元素，或者对象的属性（即键值对）**
 ```js
 var obj1 = {
     name:'zangsan',
