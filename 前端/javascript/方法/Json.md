@@ -1,4 +1,4 @@
-- JSON.stringify 将对象转换为 JSON。
+- JSON.stringify 将对象转换为 JSON。 ^90gt7z
 - JSON.parse 将 JSON 转换回对象。
 # JSON.stringify 
 `let json = JSON.stringify(value[, replacer, space])`：Json序列化
