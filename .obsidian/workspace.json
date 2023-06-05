@@ -20,43 +20,7 @@
             }
           },
           {
-            "id": "c0e4fb59d5ab8aba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/javascript/类与继承.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8b7b11aa5b7346d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/javascript/基本引用类型.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e6a80a3b9b1063ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/javascript/方法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5f95cb2d741cf25",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7808776d0c0017b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/javascript/方法/数组.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/javascript/方法/Number.md",
+                "file": "前端/javascript/方法/数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/javascript/方法/Number.md",
+                "file": "前端/javascript/方法/数组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/javascript/方法/Number.md"
+                "file": "前端/javascript/方法/数组.md"
               }
             }
           },
@@ -220,10 +196,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5f95cb2d741cf25",
+  "active": "7808776d0c0017b7",
   "lastOpenFiles": [
-    "前端/javascript/方法.md",
     "前端/javascript/方法/Number.md",
+    "前端/javascript/方法/数组.md",
+    "前端/javascript/方法.md",
+    "前端/javascript/方法/String.md",
     "前端/javascript/函数.md",
     "前端/javascript/方法",
     "前端/javascript/基本引用类型.md",
@@ -249,8 +227,6 @@
     "前端/javascript/迭代器与生成器.md",
     "代码/res/Pasted image 20220923102623.png",
     "代码/torch.md",
-    "代码/git.md",
-    "日记/2023-05-22.md",
     "res/Pasted image 20220922171654.png",
     "res/Pasted image 20220922194717.png",
     "res/Pasted image 20220922205342.png",
