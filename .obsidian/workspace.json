@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/javascript/方法/数组.md",
+                "file": "前端/javascript/方法/map和set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e66eb26e66a2f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/javascript/方法/Json.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/javascript/方法/数组.md",
+                "file": "前端/javascript/方法/Json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/javascript/方法/数组.md",
+                "file": "前端/javascript/方法/Json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/javascript/方法/数组.md"
+                "file": "前端/javascript/方法/Json.md"
               }
             }
           },
@@ -208,11 +220,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db9a475caffb4e7a",
+  "active": "3e66eb26e66a2f74",
   "lastOpenFiles": [
-    "前端/javascript/方法/String.md",
-    "前端/javascript/方法/数组.md",
     "前端/javascript/方法/map和set.md",
+    "前端/javascript/方法/Json.md",
+    "前端/javascript/方法/数组.md",
+    "前端/javascript/方法/String.md",
     "前端/javascript/集合引用类型.md",
     "前端/javascript/方法/Number.md",
     "前端/javascript/方法.md",
@@ -237,7 +250,6 @@
     "前端/javascript/创建对象的方式.md",
     "前端/vue/slot.md",
     "刷题/函数.md",
-    "前端/javascript/迭代器与生成器.md",
     "代码/res/Pasted image 20220923102623.png",
     "res/Pasted image 20220922171654.png",
     "res/Pasted image 20220922194717.png",
