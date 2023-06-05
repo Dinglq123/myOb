@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5f95cb2d741cf25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/javascript/方法/Number.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/javascript/方法.md",
+                "file": "前端/javascript/方法/Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/javascript/方法.md",
+                "file": "前端/javascript/方法/Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/javascript/方法.md"
+                "file": "前端/javascript/方法/Number.md"
               }
             }
           },
@@ -208,11 +220,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6a80a3b9b1063ee",
+  "active": "f5f95cb2d741cf25",
   "lastOpenFiles": [
-    "前端/javascript/基本引用类型.md",
     "前端/javascript/方法.md",
+    "前端/javascript/方法/Number.md",
     "前端/javascript/函数.md",
+    "前端/javascript/方法",
+    "前端/javascript/基本引用类型.md",
     "前端/javascript/集合引用类型.md",
     "前端/javascript/迭代语句.md",
     "前端/javascript/类与继承.md",
@@ -237,7 +251,6 @@
     "代码/torch.md",
     "代码/git.md",
     "日记/2023-05-22.md",
-    "代码/Linux.md",
     "res/Pasted image 20220922171654.png",
     "res/Pasted image 20220922194717.png",
     "res/Pasted image 20220922205342.png",
