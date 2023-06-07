@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bind",
+                "query": "this",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
