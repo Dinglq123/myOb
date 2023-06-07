@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "闭包",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,7 +220,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e66eb26e66a2f74",
+  "active": "6c1417edb29a2c56",
   "lastOpenFiles": [
     "前端/面试题/js.md",
     "前端/javascript/基本引用类型.md",
