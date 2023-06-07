@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bind",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,16 +221,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c1417edb29a2c56",
+  "active": "1578101821522268",
   "lastOpenFiles": [
+    "前端/javascript/方法/map和set.md",
+    "前端/javascript/函数.md",
     "前端/面试题/js.md",
     "前端/javascript/基本引用类型.md",
-    "前端/javascript/函数.md",
     "前端/javascript/方法/数组.md",
     "前端/javascript/方法.md",
     "前端/javascript/方法/Number.md",
     "前端/javascript/方法/Json.md",
-    "前端/javascript/方法/map和set.md",
     "前端/javascript/方法/String.md",
     "前端/javascript/集合引用类型.md",
     "前端/javascript/方法",
