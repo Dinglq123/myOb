@@ -45,6 +45,13 @@ var obj1 = {
 var obj2 = copy(obj1);
 console.log(obj1, obj2)
 ```
+Object.create
+```js
+let clone = Object.create(
+  Object.getPrototypeOf(obj),
+  Object.getOwnPropertyDescriptors(obj)
+);
+```
 ### 深拷贝
 JSON对象来实现深拷贝【缺点：函数无法拷贝，会显示undefined】
 ```js
