@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/面试题/js.md",
+                "file": "前端/javascript/函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "拓展",
+                "query": "闭包",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/面试题/js.md",
+                "file": "前端/javascript/函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/面试题/js.md",
+                "file": "前端/javascript/函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/面试题/js.md"
+                "file": "前端/javascript/函数.md"
               }
             }
           },
@@ -223,6 +223,7 @@
   },
   "active": "3e66eb26e66a2f74",
   "lastOpenFiles": [
+    "前端/面试题/js.md",
     "前端/javascript/基本引用类型.md",
     "前端/javascript/函数.md",
     "前端/javascript/方法/数组.md",
@@ -240,7 +241,6 @@
     "前端/面试题/面试.md",
     "前端/面试题/css.md",
     "前端/面试题/浏览器、服务器、协议.md",
-    "前端/面试题/js.md",
     "前端/css/flex布局.md",
     "conflict-files-obsidian-git.md",
     "前端/面试题/vue.md",
