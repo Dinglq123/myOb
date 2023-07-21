@@ -1,0 +1,12 @@
+# 忽略系统和编辑器的文件
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# 忽略 Obsidian 自动生成的缓存和索引文件
+/.obsidian
+/.trash/
+
+# 忽略 Obsidian 插件的文件
+/community/
