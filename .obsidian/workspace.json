@@ -4,81 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c78e1a63b50e4676",
+        "id": "7ce3b68c48c7162c",
         "type": "tabs",
         "children": [
           {
-            "id": "df0f684d643d8b87",
+            "id": "b6ce23c20ec6dd27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/javascript/基本引用类型.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6a80a3b9b1063ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/javascript/方法/Number.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7808776d0c0017b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/javascript/方法/数组.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db9a475caffb4e7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/javascript/方法/map和set.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e66eb26e66a2f74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/javascript/类与继承.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9473263f4ca9f828",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/javascript/类与继承.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/javascript/类与继承.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "前端/javascript/类与继承.md"
-              }
+              "state": {}
             }
           },
           {
@@ -230,14 +163,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9473263f4ca9f828",
+  "active": "b6ce23c20ec6dd27",
   "lastOpenFiles": [
+    "新建文本文档.txt",
+    "前端/javascript/基本引用类型.md",
     "前端/javascript/函数.md",
     "前端/面试题/js.md",
     "前端/javascript/方法/String.md",
     "前端/javascript/方法/数组.md",
     "前端/javascript/方法/map和set.md",
-    "前端/javascript/基本引用类型.md",
     "前端/javascript/方法.md",
     "前端/javascript/方法/Number.md",
     "前端/javascript/方法/Json.md",
@@ -259,7 +193,6 @@
     "前端/面试题/html.md",
     "前端/javascript/创建对象的方式.md",
     "前端/vue/slot.md",
-    "刷题/函数.md",
     "代码/res/Pasted image 20220923102623.png",
     "res/Pasted image 20220922171654.png",
     "res/Pasted image 20220922194717.png",
