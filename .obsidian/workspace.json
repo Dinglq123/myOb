@@ -11,8 +11,12 @@
             "id": "b6ce23c20ec6dd27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "前端/javascript/方法/数组.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "前端/javascript/方法/数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "前端/javascript/方法/数组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "前端/javascript/方法/数组.md"
+              }
             }
           },
           {
@@ -165,22 +173,25 @@
   },
   "active": "b6ce23c20ec6dd27",
   "lastOpenFiles": [
-    "新建文本文档.txt",
+    "前端/javascript/javascript.md",
+    "前端/javascript/类与继承.md",
+    "前端/javascript/继承.md",
     "前端/javascript/基本引用类型.md",
     "前端/javascript/函数.md",
+    "前端/javascript/方法.md",
+    "前端/javascript/迭代器与生成器.md",
+    "前端/javascript/创建对象的方式.md",
+    "代码/git.md",
+    "新建文本文档.txt",
     "前端/面试题/js.md",
     "前端/javascript/方法/String.md",
     "前端/javascript/方法/数组.md",
     "前端/javascript/方法/map和set.md",
-    "前端/javascript/方法.md",
     "前端/javascript/方法/Number.md",
     "前端/javascript/方法/Json.md",
     "前端/javascript/集合引用类型.md",
     "前端/javascript/方法",
     "前端/javascript/迭代语句.md",
-    "前端/javascript/类与继承.md",
-    "前端/javascript/继承.md",
-    "前端/javascript/javascript.md",
     "前端/面试题/面试.md",
     "前端/面试题/css.md",
     "前端/面试题/浏览器、服务器、协议.md",
@@ -191,8 +202,6 @@
     "前端/vue/vue.md",
     "前端/vue/vue知识点回顾大纲.md",
     "前端/面试题/html.md",
-    "前端/javascript/创建对象的方式.md",
-    "前端/vue/slot.md",
     "代码/res/Pasted image 20220923102623.png",
     "res/Pasted image 20220922171654.png",
     "res/Pasted image 20220922194717.png",
@@ -209,7 +218,6 @@
     "前端",
     "res",
     "前端/javascript",
-    "初阶训练营",
-    "前端/vue"
+    "初阶训练营"
   ]
 }
