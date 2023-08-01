@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/面试题/面试.md",
+                "file": "前端/javascript/方法/String.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/面试题/面试.md",
+                "file": "前端/javascript/方法/String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/面试题/面试.md",
+                "file": "前端/javascript/方法/String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/面试题/面试.md"
+                "file": "前端/javascript/方法/String.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   },
   "active": "43fe2b0cc8599b27",
   "lastOpenFiles": [
+    "前端/面试题/面试.md",
     "前端/面试题/js.md",
     "前端/javascript/方法/map和set.md",
     "前端/javascript/方法/数组.md",
@@ -205,7 +206,6 @@
     "前端/javascript/集合引用类型.md",
     "前端/javascript/方法",
     "前端/javascript/迭代语句.md",
-    "前端/面试题/面试.md",
     "前端/面试题/css.md",
     "前端/面试题/浏览器、服务器、协议.md",
     "前端/css/flex布局.md",
