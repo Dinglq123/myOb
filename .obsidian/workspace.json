@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/javascript/方法/数组.md",
+                "file": "前端/面试题/面试.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/javascript/方法/数组.md",
+                "file": "前端/面试题/面试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/javascript/方法/数组.md",
+                "file": "前端/面试题/面试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/javascript/方法/数组.md"
+                "file": "前端/面试题/面试.md"
               }
             }
           },
@@ -186,6 +186,9 @@
   },
   "active": "43fe2b0cc8599b27",
   "lastOpenFiles": [
+    "前端/面试题/js.md",
+    "前端/javascript/方法/map和set.md",
+    "前端/javascript/方法/数组.md",
     "前端/javascript/方法/String.md",
     "前端/javascript/javascript.md",
     "前端/javascript/类与继承.md",
@@ -197,9 +200,6 @@
     "前端/javascript/创建对象的方式.md",
     "代码/git.md",
     "新建文本文档.txt",
-    "前端/面试题/js.md",
-    "前端/javascript/方法/数组.md",
-    "前端/javascript/方法/map和set.md",
     "前端/javascript/方法/Number.md",
     "前端/javascript/方法/Json.md",
     "前端/javascript/集合引用类型.md",
