@@ -4,3 +4,5 @@
 * `nvm -v`查看node版本
 * `npm -v`查看npm版本
 * `nvm list`列出已安装的版本
+* `nvm uninstall 14.14.0`卸载指定版本
+* 
