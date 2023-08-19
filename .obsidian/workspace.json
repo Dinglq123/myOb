@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "刷题/函数.md",
+                "file": "刷题/JS刷题.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "刷题/函数.md",
+                "file": "刷题/JS刷题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "刷题/函数.md",
+                "file": "刷题/JS刷题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "刷题/函数.md"
+                "file": "刷题/JS刷题.md"
               }
             }
           },
@@ -222,8 +222,8 @@
   },
   "active": "38dca24a5b23807e",
   "lastOpenFiles": [
-    "刷题/JS刷题.md",
     "刷题/函数.md",
+    "刷题/JS刷题.md",
     "前端/vue/vue3.md",
     "前端/vue/动态组件.md",
     "代码/nvm&&npm.md",
