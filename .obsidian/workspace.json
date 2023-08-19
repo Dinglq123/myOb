@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/vue/vue3.md",
+                "file": "刷题/函数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38dca24a5b23807e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "刷题/函数.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/vue/vue3.md",
+                "file": "刷题/函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/vue/vue3.md",
+                "file": "刷题/函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/vue/vue3.md"
+                "file": "刷题/函数.md"
               }
             }
           },
@@ -208,10 +220,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "651911ea7460b721",
+  "active": "38dca24a5b23807e",
   "lastOpenFiles": [
-    "前端/vue/动态组件.md",
+    "刷题/JS刷题.md",
+    "刷题/函数.md",
     "前端/vue/vue3.md",
+    "前端/vue/动态组件.md",
     "代码/nvm&&npm.md",
     "代码/未命名.md",
     "代码/Linux.md",
@@ -237,8 +251,6 @@
     "前端/javascript/方法/Json.md",
     "前端/javascript/方法",
     "前端/面试题/css.md",
-    "前端/面试题/浏览器、服务器、协议.md",
-    "前端/css/flex布局.md",
     "前端/css",
     "代码/res/Pasted image 20220923102623.png",
     "res/Pasted image 20220922171654.png",
