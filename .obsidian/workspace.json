@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "刷题/JS刷题.md",
+                "file": "前端/vue/vue知识点回顾大纲.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c6ef397c5019234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端/vue/调试.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "刷题/JS刷题.md",
+                "file": "前端/vue/调试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "刷题/JS刷题.md",
+                "file": "前端/vue/调试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "刷题/JS刷题.md"
+                "file": "前端/vue/调试.md"
               }
             }
           },
@@ -220,11 +232,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38dca24a5b23807e",
+  "active": "1c6ef397c5019234",
   "lastOpenFiles": [
-    "刷题/函数.md",
-    "刷题/JS刷题.md",
+    "前端/vue/vue知识点回顾大纲.md",
+    "前端/vue/调试.md",
+    "前端/vue/slot.md",
     "前端/vue/vue3.md",
+    "前端/vue/vue.md",
+    "刷题/JS刷题.md",
+    "刷题/函数.md",
     "前端/vue/动态组件.md",
     "代码/nvm&&npm.md",
     "代码/未命名.md",
@@ -245,12 +261,8 @@
     "前端/javascript/方法/map和set.md",
     "前端/javascript/迭代器与生成器.md",
     "前端/javascript/创建对象的方式.md",
-    "代码/git.md",
     "新建文本文档.txt",
-    "前端/javascript/方法/Number.md",
-    "前端/javascript/方法/Json.md",
     "前端/javascript/方法",
-    "前端/面试题/css.md",
     "前端/css",
     "代码/res/Pasted image 20220923102623.png",
     "res/Pasted image 20220922171654.png",
