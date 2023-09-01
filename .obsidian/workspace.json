@@ -4,71 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ce3b68c48c7162c",
+        "id": "16342478aeaedb20",
         "type": "tabs",
         "children": [
           {
-            "id": "b6ce23c20ec6dd27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/javascript/方法/数组.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43fe2b0cc8599b27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代码/Linux.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66bb98746c26e710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/vue/动态组件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "651911ea7460b721",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "刷题/函数.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38dca24a5b23807e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/vue/vue知识点回顾大纲.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c6ef397c5019234",
+            "id": "05fac30935aee56c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,19 +171,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c6ef397c5019234",
+  "active": "05fac30935aee56c",
   "lastOpenFiles": [
-    "前端/vue/vue知识点回顾大纲.md",
+    "前端/javascript/方法/数组.md",
+    "代码/Linux.md",
+    "前端/vue/动态组件.md",
+    "刷题/函数.md",
     "前端/vue/调试.md",
+    "前端/vue/vue知识点回顾大纲.md",
     "前端/vue/slot.md",
     "前端/vue/vue3.md",
     "前端/vue/vue.md",
     "刷题/JS刷题.md",
-    "刷题/函数.md",
-    "前端/vue/动态组件.md",
     "代码/nvm&&npm.md",
     "代码/未命名.md",
-    "代码/Linux.md",
     "未命名",
     "前端/javascript/javascript.md",
     "前端/javascript/类与继承.md",
@@ -254,7 +194,6 @@
     "前端/javascript/函数.md",
     "前端/javascript/方法.md",
     "前端/javascript/迭代语句.md",
-    "前端/javascript/方法/数组.md",
     "前端/javascript/方法/String.md",
     "前端/面试题/面试.md",
     "前端/面试题/js.md",
