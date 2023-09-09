@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/vue/调试.md",
+                "file": "代码/git.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/vue/调试.md",
+                "file": "代码/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/vue/调试.md",
+                "file": "代码/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/vue/调试.md"
+                "file": "代码/git.md"
               }
             }
           },
@@ -173,10 +173,10 @@
   },
   "active": "05fac30935aee56c",
   "lastOpenFiles": [
+    "前端/vue/调试.md",
     "前端/vue/动态组件.md",
     "代码/torch.md",
     "代码/nvm&&npm.md",
-    "前端/vue/调试.md",
     "前端/javascript/方法/数组.md",
     "代码/Linux.md",
     "刷题/函数.md",
