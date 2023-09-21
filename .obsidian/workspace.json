@@ -184,8 +184,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c1417edb29a2c56",
+  "active": "3241f7dfa858f61c",
   "lastOpenFiles": [
+    "前端/面试题/res/Pasted image 20230921214010.png",
+    "前端/面试题/res",
     "代码/git.md",
     "前端/面试题/小兔鲜项目问题和解决方案.md",
     "前端/vue/调试.md",
@@ -212,7 +214,6 @@
     "前端/javascript/方法/String.md",
     "前端/面试题/面试.md",
     "前端/面试题/js.md",
-    "前端/javascript/方法/map和set.md",
     "新建文本文档.txt",
     "前端/javascript/方法",
     "前端/css",
@@ -230,7 +231,6 @@
     "res/Pasted image 20230509133947.png",
     "未命名 1",
     "前端",
-    "res",
-    "前端/javascript"
+    "res"
   ]
 }
