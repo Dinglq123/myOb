@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,8 +204,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed6271c29c9bedb0",
+  "active": "3241f7dfa858f61c",
   "lastOpenFiles": [
+    "前端/面试题/res/Pasted image 20230923092740.png",
     "前端/面试题/res/Pasted image 20230922112856.png",
     "前端/面试题/res/Pasted image 20230922101609.png",
     "前端/面试题/res/Pasted image 20230922093237.png",
@@ -246,7 +247,6 @@
     "前端/javascript/方法",
     "前端/css",
     "代码/res/Pasted image 20220923102623.png",
-    "res/Pasted image 20220922171654.png",
     "日记",
     "前端/面试题",
     "未命名 1",
